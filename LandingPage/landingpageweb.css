@@ -1082,18 +1082,18 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1920px;
-  height: 937.55px;
+  width: 100vw; /* 1920px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
   left: 0;
-  top: 2007.45px
+  top: 104.554688vw; /* 2007.45px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1920px;
-  height: 937.55px;
+  width: 100vw; /* 1920px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
   left: 0;
   top: 0
 }
@@ -1103,10 +1103,10 @@ body {
   fill: rgba(32, 32, 32, 1);
   -webkit-filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
   filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
-  width: 1919px;
-  height: 937px;
-  left: 1px;
-  top: .55px
+  width: 99.947917vw; /* 1919px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 0.052083vw; /* 1px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 {
@@ -1115,80 +1115,80 @@ body {
   opacity: .25;
   cursor: default;
   background-color: transparent;
-  width: 1631px;
-  height: 937.55px;
-  left: 139.5px;
+  width: 84.947917vw; /* 1631px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 7.265625vw; /* 139.5px/1920 */
   top: 0
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line16b25e1180 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937.55px;
-  left: -.5px;
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: -0.026042vw; /* -0.5px/1920 */
   top: 0
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line1785ff75b0 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937.55px;
-  left: 187.5px;
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 1px/1920;
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 9.765625vw; /* 187.5px/1920 */
   top: 0
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line18298a0330 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937.5px;
-  left: 1442.5px;
-  top: .05px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.828125vw; /* 937.5px/1920 */
+  left: 75.130208vw; /* 1442.5px/1920 */
+  top: 0.002604vw; /* 0.05px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line194777ab7b {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937px;
-  left: 726.5px;
-  top: .55px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 37.838542vw; /* 726.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line2028bdcd3d {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937.5px;
-  left: 1630.5px;
-  top: .05px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.828125vw; /* 937.5px/1920 */
+  left: 84.921875vw; /* 1630.5px/1920 */
+  top: 0.002604vw; /* 0.05px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .lines45fc0253 .line2199968adf {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 937px;
-  left: 914.5px;
-  top: .55px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 47.630208vw; /* 914.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .topmision {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1920px;
-  height: 67px;
+  width: 100vw; /* 1920px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
   left: 0;
-  top: .55px
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .misionsection .bgmision .topmision .maskGroup7f39ec310 {
@@ -1201,8 +1201,8 @@ body {
   opacity: .2;
   cursor: default;
   background-color: transparent;
-  width: 1054px;
-  height: 67px;
+  width: 54.895833vw; /* 1054px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
   left: 0;
   top: 0
 }
@@ -1213,10 +1213,10 @@ body {
   cursor: default;
   background-color: rgba(242, 242, 242, 1);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 865px;
-  height: 67px;
-  left: 1055px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 45.052083vw; /* 865px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
+  left: 54.947917vw; /* 1055px/1920 */
   top: 0
 }
 
@@ -1224,141 +1224,141 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 533px;
-  height: 589px;
-  left: 327px;
-  top: 144.55px
+  width: 27.760417vw; /* 533px/1920 */
+  height: 30.677083vw; /* 589px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 7.528646vw; /* 144.55px/1920 */
 }
 
 .landingpageweb .misionsection .mision8240744c .somosUnaEmpresaDedicadaABrindarSolucionesMovilesConElFinDeAyudarAJugadoresDeLaLocalidadParaMejorarSuExperienciaDeEmparejamientoMultijugador {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 45px;
-  letter-spacing: .85px;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.770833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 533px;
-  height: 295px;
+  width: 27.760417vw; /* 533px/1920 */
+  height: 15.364583vw; /* 295px/1920 */
   left: 0;
-  top: 292px
+  top: 15.208333vw; /* 292px/1920 */
 }
 
 .landingpageweb .misionsection .mision8240744c .nuestramision {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.17px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 78px;
+  font-size: 4.0625vw; /* 78px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 288px;
-  height: 177px;
+  width: 15vw; /* 288px/1920 */
+  height: 9.21875vw; /* 177px/1920 */
   left: 0;
-  top: 84.5px
+  top: 4.401042vw; /* 84.5px/1920 */
 }
 
 .landingpageweb .misionsection .mision8240744c .objetivoPrimario {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 92px;
-  letter-spacing: .63px;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(255, 153, 74, 1);
   -webkit-text-stroke: unset;
-  font-size: 25px;
+  font-size: 1.302083vw; /* 25px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 276px;
-  height: 34px;
+  width: 14.375vw; /* 276px/1920 */
+  height: 1.770833vw; /* 34px/1920 */
   left: 0;
-  top: -30.5px
+  top: -1.588542vw; /* -30.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 872px;
-  height: 708px;
-  left: 1008px;
-  top: 144.55px
+  width: 45.416667vw; /* 872px/1920 */
+  height: 36.875vw; /* 708px/1920 */
+  left: 52.5vw; /* 1008px/1920 */
+  top: 7.528646vw; /* 144.55px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .saberMas {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.17px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 78px;
+  font-size: 4.0625vw; /* 78px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 397px;
-  height: 97px;
-  left: 44px;
-  top: 84.5px
+  width: 20.677083vw; /* 397px/1920 */
+  height: 5.052083vw; /* 97px/1920 */
+  left: 2.291667vw; /* 44px/1920 */
+  top: 4.401042vw; /* 84.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .extras {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 92px;
-  letter-spacing: .63px;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(255, 117, 135, 1);
   -webkit-text-stroke: unset;
-  font-size: 25px;
+  font-size: 1.302083vw; /* 25px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 276px;
-  height: 34px;
-  left: 44px;
-  top: -30.5px
+  width: 14.375vw; /* 276px/1920 */
+  height: 1.770833vw; /* 34px/1920 */
+  left: 2.291667vw; /* 44px/1920 */
+  top: -1.588542vw; /* -30.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 279px;
-  height: 484px;
+  width: 14.53125vw; /* 279px/1920 */
+  height: 25.208333vw; /* 484px/1920 */
   left: 0;
-  top: 224px
+  top: 11.666667vw; /* 224px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group18 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 279px;
-  height: 204px;
+  width: 14.53125vw; /* 279px/1920 */
+  height: 10.625vw; /* 204px/1920 */
   left: 0;
-  top: 280px
+  top: 14.583333vw; /* 280px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group18 .rectangle696 {
   position: absolute;
   background-color: rgba(256, 256, 256, 1);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 279px;
-  height: 204px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 14.53125vw; /* 279px/1920 */
+  height: 10.625vw; /* 204px/1920 */
   left: 0;
   top: 0
 }
@@ -1367,10 +1367,10 @@ body {
   position: absolute;
   background-color: rgba(252, 44, 72, 1);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 33px;
-  height: 4px;
-  left: 45px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 1.71875vw; /* 33px/1920 */
+  height: 0.208333vw; /* 4px/1920 */
+  left: 2.34375vw; /* 45px/1920 */
   top: 0
 }
 
@@ -1378,84 +1378,84 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 134.09px;
-  height: 136px;
-  left: 45px;
-  top: 310px
+  width: 6.983854vw; /* 134.09px/1920 */
+  height: 7.083333vw; /* 136px/1920 */
+  left: 2.34375vw; /* 45px/1920 */
+  top: 16.145833vw; /* 310px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .team {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 45px;
+  line-height: 2.34375vw; /* 45px/1920 */
   letter-spacing: 0;
   color: rgba(58, 58, 58, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 42px;
+  font-size: 2.1875vw; /* 42px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 111px;
-  height: 56px;
+  width: 5.78125vw; /* 111px/1920 */
+  height: 2.916667vw; /* 56px/1920 */
   left: 0;
-  top: 3.5px
+  top: 0.182292vw; /* 3.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .quienesSomos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 45px;
-  letter-spacing: .75px;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.039063vw; /* 0.75px/1920 */
   color: rgba(58, 58, 58, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 15px;
+  font-size: 0.78125vw; /* 15px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 127px;
-  height: 21px;
+  width: 6.614583vw; /* 127px/1920 */
+  height: 1.09375vw; /* 21px/1920 */
   left: 0;
-  top: 49px
+  top: 2.552083vw; /* 49px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .group16 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 134.09px;
-  height: 20px;
+  width: 6.983854vw; /* 134.09px/1920 */
+  height: 1.041667vw; /* 20px/1920 */
   left: 0;
-  top: 116px
+  top: 6.041667vw; /* 116px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .group16 .aprendeMas {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 45px;
-  letter-spacing: .75px;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.039063vw; /* 0.75px/1920 */
   color: rgba(223, 42, 66, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 15px;
+  font-size: 0.78125vw; /* 15px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 127px;
-  height: 20px;
+  width: 6.614583vw; /* 127px/1920 */
+  height: 1.041667vw; /* 20px/1920 */
   left: 0;
-  top: -13px
+  top: -0.677083vw; /* -13px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .group16 .component111 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 15.09px;
-  height: 15.09px;
-  left: 119px;
-  top: 2.21px
+  width: 0.785937vw; /* 15.09px/1920 */
+  height: 0.785937vw; /* 15.09px/1920 */
+  left: 6.197917vw; /* 119px/1920 */
+  top: 0.115104vw; /* 2.21px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .group17 .group16 .component111 .path232 {
@@ -1468,10 +1468,10 @@ body {
   transform-origin: center;
   cursor: default;
   fill: rgba(223, 42, 66, 1);
-  width: 10.59px;
-  height: 10.75px;
-  left: 2.25px;
-  top: 2.17px
+  width: 0.551562vw; /* 10.59px/1920 */
+  height: 0.559896vw; /* 10.75px/1920 */
+  left: 0.117188vw; /* 2.25px/1920 */
+  top: 0.113021vw; /* 2.17px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel1 .us {
@@ -1482,10 +1482,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 279px;
-  height: 280px;
+  width: 14.53125vw; /* 279px/1920 */
+  height: 14.583333vw; /* 280px/1920 */
   left: 0;
   top: 0
 }
@@ -1494,47 +1492,47 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 243px;
-  height: 364px;
-  left: 331px;
-  top: 224px
+  width: 12.65625vw; /* 243px/1920 */
+  height: 18.958333vw; /* 364px/1920 */
+  left: 17.239583vw; /* 331px/1920 */
+  top: 11.666667vw; /* 224px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 242.5px;
-  height: 88px;
-  left: .3px;
-  top: 276px
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
+  left: 0.015625vw; /* 0.3px/1920 */
+  top: 14.375vw; /* 276px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 18px;
-  letter-spacing: .85px;
+  line-height: 0.9375vw; /* 18px/1920 */
+  letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 127px;
-  height: 41px;
-  left: 29.7px;
-  top: 26.5px
+  width: 6.614583vw; /* 127px/1920 */
+  height: 2.135417vw; /* 41px/1920 */
+  left: 1.546875vw; /* 29.7px/1920 */
+  top: 1.380208vw; /* 26.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria .gamingIndustria-0 {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1542,9 +1540,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1552,9 +1550,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1562,9 +1560,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1572,8 +1570,8 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 242.5px;
-  height: 88px;
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
   left: 0;
   top: 0
 }
@@ -1584,9 +1582,9 @@ body {
   background-color: transparent;
   border-color: rgba(242, 242, 242, 1);
   border-style: solid;
-  border-width: 3px;
-  width: 242.5px;
-  height: 88px;
+  border-width: 0.15625vw; /* 3px/1920 */
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
   left: 0;
   top: 0
 }
@@ -1594,12 +1592,10 @@ body {
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .group20ffbc580f .rectangle69917727a80 {
   position: absolute;
   background-color: rgba(252, 44, 72, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 33px;
-  height: 4px;
-  left: 29.7px;
-  top: 3px
+  width: 1.71875vw; /* 33px/1920 */
+  height: 0.208333vw; /* 4px/1920 */
+  left: 1.546875vw; /* 29.7px/1920 */
+  top: 0.15625vw; /* 3px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .maskGroup6aebfb4f8 {
@@ -1611,8 +1607,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: transparent;
-  width: 243px;
-  height: 279px;
+  width: 12.65625vw; /* 243px/1920 */
+  height: 14.53125vw; /* 279px/1920 */
   left: 0;
   top: 0
 }
@@ -1621,28 +1617,28 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 243px;
-  height: 364px;
-  left: 629px;
-  top: 224px
+  width: 12.65625vw; /* 243px/1920 */
+  height: 18.958333vw; /* 364px/1920 */
+  left: 32.760417vw; /* 629px/1920 */
+  top: 11.666667vw; /* 224px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 242.5px;
-  height: 88px;
-  left: .3px;
-  top: 276px
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
+  left: 0.015625vw; /* 0.3px/1920 */
+  top: 14.375vw; /* 276px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .group20 {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 242.5px;
-  height: 88px;
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
   left: 0;
   top: 0
 }
@@ -1653,9 +1649,9 @@ body {
   background-color: rgba(32, 32, 32, 1);
   border-color: rgba(242, 242, 242, 1);
   border-style: solid;
-  border-width: 3px;
-  width: 242.5px;
-  height: 88px;
+  border-width: 0.15625vw; /* 3px/1920 */
+  width: 12.630208vw; /* 242.5px/1920 */
+  height: 4.583333vw; /* 88px/1920 */
   left: 0;
   top: 0
 }
@@ -1663,39 +1659,37 @@ body {
 .landingpageweb .misionsection .sabermas .panel3 .group21 .group20 .rectangle699 {
   position: absolute;
   background-color: rgba(252, 44, 72, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 33px;
-  height: 4px;
-  left: 29.7px;
-  top: 3px
+  width: 1.71875vw; /* 33px/1920 */
+  height: 0.208333vw; /* 4px/1920 */
+  left: 1.546875vw; /* 29.7px/1920 */
+  top: 0.15625vw; /* 3px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 18px;
-  letter-spacing: .85px;
+  line-height: 0.9375vw; /* 18px/1920 */
+  letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 145px;
-  height: 41px;
-  left: 29.7px;
-  top: 26.5px
+  width: 7.552083vw; /* 145px/1920 */
+  height: 2.135417vw; /* 41px/1920 */
+  left: 1.546875vw; /* 29.7px/1920 */
+  top: 1.380208vw; /* 26.5px/1920 */
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking .multiplayerMatchmaking-0 {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1703,9 +1697,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1713,9 +1707,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1723,9 +1717,9 @@ body {
   color: rgba(242, 242, 242, 1);
   font-weight: 700;
   font-style: normal;
-  font-size: 17px;
+  font-size: 0.885417vw; /* 17px/1920 */
   font-family: 'Gilroy ☞', Arial;
-  letter-spacing: .85;
+  letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
@@ -1738,8 +1732,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: transparent;
-  width: 243px;
-  height: 279px;
+  width: 12.65625vw; /* 243px/1920 */
+  height: 14.53125vw; /* 279px/1920 */
   left: 0;
   top: 0
 }
@@ -1748,10 +1742,10 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1920px;
-  height: 938px;
+  width: 100vw; /* 1920px/1920 */
+  height: 48.854167vw; /* 938px/1920 */
   left: 0;
-  top: 3032px
+  top: 157.916667vw; /* 3032px/1920 */
 }
 
 .landingpageweb .visionsection .bgvision {
