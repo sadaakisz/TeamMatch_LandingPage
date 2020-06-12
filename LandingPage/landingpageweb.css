@@ -9,7 +9,7 @@ body {
   font-family: 'Open Sans', serif;
   height: 100%;
   width: 100%;
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
   -webkit-font-smoothing: antialiased;
   overflow: -moz-scrollbars-none;
 }
@@ -19,7 +19,7 @@ body {
   display: block;
   position: absolute;
   background-color: rgba(35, 35, 35, 1);
-  width: 1920px;
+  width: 100%;
   height: 5773px;
 }
 
@@ -101,49 +101,26 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1920px;
-  height: 841px;
+  width: 100vw; /* 1920px/1920 */
+  height: 43.802083vw; /* 841px/1920 */
   left: 0;
-  top: 1100px
+  top: 57.291667vw; /* 1100px/1920 */
 }
 
 .landingpageweb .mobilesection .bgsecondgrey {
   position: absolute;
   fill: rgba(35, 35, 35, 1);
-  -webkit-filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4196078431372549));
-  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4196078431372549));
-  width: 1920px;
-  height: 841px;
-  left: 0;
-  top: 0
+  -webkit-filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .42));
+  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .42));
+  width: 100vw; /* 1920px/1920 */
+  height: 43.802083vw; /* 841px/1920 */
 }
 
 .landingpageweb .mobilesection .rectangle692 {
   position: absolute;
   background-color: rgba(242, 242, 242, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 960px;
-  height: 841px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .mobilesection .teammatchmockups {
-  position: absolute;
-  display: none;
-  background-image: url(assets/teammatchmockups.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  cursor: default;
-  background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 893px;
-  height: 841px;
-  left: 34px;
-  top: 0
+  width: 50vw; /* 960px/1920 */
+  height: 43.802083vw; /* 841px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta {
@@ -203,7 +180,7 @@ body {
   width: 338.89px;
   height: 89.84px;
   left: 0;
-  top: .08px
+  top: 0
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .hoverstatebc7b45af .rectangle673180ce2c8 {
@@ -239,7 +216,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 204px;
+  line-height: 0px;
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -253,7 +230,7 @@ body {
   width: 158px;
   height: 42px;
   left: 73.09px;
-  top: -78.12px
+  top: 24px
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .hoverstatebc7b45af .inside7a6ac920 .playstore10466fd0 {
@@ -326,7 +303,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 204px;
+  line-height: 0px;
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -340,7 +317,7 @@ body {
   width: 158px;
   height: 42px;
   left: 73.09px;
-  top: -78.12px
+  top: 24px
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .defaultstate9f939f09 .insidedaa0cb2d .playstorebc361a32 {
@@ -406,7 +383,7 @@ body {
   width: 338.89px;
   height: 89.84px;
   left: 0;
-  top: .08px
+  top: 0
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .hoverstate60707eda .rectangle673c334f3ec {
@@ -442,7 +419,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 204px;
+  line-height: 0;
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -456,7 +433,7 @@ body {
   width: 156px;
   height: 42px;
   left: 66.84px;
-  top: -81px
+  top: 21px
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .hoverstate60707eda .inside61617146 .appstore20c787e1 {
@@ -529,7 +506,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 204px;
+  line-height: 0;
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -543,7 +520,7 @@ body {
   width: 156px;
   height: 42px;
   left: 66.84px;
-  top: -81px
+  top: 21px
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .defaultstate5ae1c080 .inside78562461 .appstore {
@@ -627,7 +604,7 @@ body {
 .landingpageweb .mobilesection .tmmockupsmask {
   display: block;
   position: absolute;
-  background-image: url(assets/tmmockupsmask.png);
+  background-image: url(assets/tmmockupsmask.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -635,10 +612,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 960px;
-  height: 841px;
-  left: 0;
-  top: 0
+  width: 50vw; /* 960px/1920 */
+  height: 43.802083vw; /* 841px/1920 */
 }
 
 .landingpageweb .topsection {
@@ -647,10 +622,9 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1781px;
-  height: 1565px;
-  left: 139px;
-  top: 0
+  width: 92.760417vw; /* 1781px/1920 */
+  height: 81.510417vw; /* 1565px/1920 */
+  left: 7.239583vw; /* 139px/1920 */
 }
 
 .landingpageweb .topsection .bggraphicmask {
@@ -664,21 +638,9 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1234px;
-  height: 1565px;
-  left: 547px;
-  top: 0
-}
-
-.landingpageweb .topsection .bggraphicmask .path214 {
-  position: absolute;
-  fill: transparent;
-  -webkit-filter: drop-shadow(-20px 20px 40px rgba(0, 0, 0, .5490196078431373));
-  filter: drop-shadow(-20px 20px 40px rgba(0, 0, 0, .5490196078431373));
-  width: 1230.69px;
-  height: 1541.11px;
-  left: 63.63px;
-  top: 0
+  width: 64.270833vw; /* 1234px/1920 */
+  height: 81.510417vw; /* 1565px/1920 */
+  right: 0
 }
 
 .landingpageweb .topsection .laptopmask {
@@ -692,10 +654,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1068px;
-  height: 1080px;
-  left: 713px;
-  top: 67px
+  width: 55.625vw; /* 1068px/1920 */
+  height: 56.25vw; /* 1080px/1920 */
+  right: 0;
+  top: 3.489583vw; /* 67px/1920 */
 }
 
 .landingpageweb .topsection .cta {
@@ -791,7 +753,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 210px;
+  line-height: 0;
   letter-spacing: .88px;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -805,7 +767,7 @@ body {
   width: 192px;
   height: 43px;
   left: 50.74px;
-  top: -83.5px
+  top: 22px
 }
 
 .landingpageweb .topsection .cta .btnempiezaya .hoverstate91b7f28c .inside30bc6fa9 .forwardArrow909a5603 {
@@ -872,7 +834,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 210px;
+  line-height: 0;
   letter-spacing: .88px;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -886,7 +848,7 @@ body {
   width: 192px;
   height: 43px;
   left: 50.74px;
-  top: -83.5px
+  top: 22.5px
 }
 
 .landingpageweb .topsection .cta .btnempiezaya .defaultstatef01bc205 .inside .forwardArrow {
@@ -961,238 +923,6 @@ body {
   top: -30.5px
 }
 
-.landingpageweb .topsection .topbar93cbb644 {
-  display: block;
-  position: absolute;
-  display: none;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 532px;
-  height: 65px;
-  left: 1111px;
-  top: 60px
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 {
-  display: block;
-  position: absolute;
-  cursor: pointer;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 242px;
-  height: 65px;
-  left: 290px;
-  top: 0;
-  border: none;
-  outline: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .hoverstate708b9f2b {
-  display: block;
-  position: absolute;
-  display: none;
-  cursor: pointer;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 242px;
-  height: 65px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .hoverstate708b9f2b .rectangle6715e365921 {
-  position: absolute;
-  box-sizing: border-box;
-  cursor: pointer;
-  background-color: transparent;
-  border-color: rgba(255, 255, 255, 1);
-  border-style: solid;
-  border-width: 2px;
-  border-radius: 33px;
-  width: 242px;
-  height: 65px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .hoverstate708b9f2b .probarf7725b2d {
-  position: absolute;
-  cursor: pointer;
-  background-color: rgba(255, 255, 255, 0);
-  text-align: center;
-  line-height: 156px;
-  letter-spacing: .65px;
-  color: rgba(255, 255, 255, 1);
-  -webkit-text-stroke: 1px transparent;
-  font-size: 26px;
-  font-weight: 700;
-  font-style: normal;
-  font-family: 'Gilroy ☞', Arial;
-  overflow-x: unset;
-  overflow-y: unset;
-  white-space: pre;
-  width: 84px;
-  height: 32px;
-  left: 78px;
-  top: -45px
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .defaultstatec1a5bb03 {
-  display: block;
-  position: absolute;
-  cursor: pointer;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 242px;
-  height: 65px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .defaultstatec1a5bb03 .rectangle6713a9da859 {
-  position: absolute;
-  cursor: pointer;
-  background-color: rgba(32, 32, 32, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  border-radius: 33px;
-  width: 242px;
-  height: 65px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7 .defaultstatec1a5bb03 .probarb52652ec {
-  position: absolute;
-  cursor: pointer;
-  background-color: rgba(255, 255, 255, 0);
-  text-align: center;
-  line-height: 156px;
-  letter-spacing: .65px;
-  color: rgba(255, 120, 130, 1);
-  -webkit-text-stroke: 1px transparent;
-  font-size: 26px;
-  font-weight: 700;
-  font-style: normal;
-  font-family: 'Gilroy ☞', Arial;
-  overflow-x: unset;
-  overflow-y: unset;
-  white-space: pre;
-  width: 84px;
-  height: 32px;
-  left: 78px;
-  top: -45px
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7:hover>.hoverstate708b9f2b {
-  display: inherit
-}
-
-.landingpageweb .topsection .topbar93cbb644 .btnprobar65cba1a7:hover>.defaultstatec1a5bb03 {
-  display: none
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 {
-  display: block;
-  position: absolute;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 146px;
-  height: 22px;
-  left: 0;
-  top: 21px
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .facebook6665acac {
-  display: block;
-  position: absolute;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 23px;
-  height: 22px;
-  left: 123px;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .facebook6665acac .rectangle392ffb2c13a {
-  position: absolute;
-  background-color: transparent;
-  border-color: rgba(149, 152, 154, 1);
-  border-width: 1px;
-  width: 22px;
-  height: 22px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .facebook6665acac .path18247f282 {
-  position: absolute;
-  fill: rgba(18, 18, 18, 1);
-  width: 11.57px;
-  height: 22.15px;
-  left: 5.54px;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .twitter8914f81b {
-  display: block;
-  position: absolute;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 23px;
-  height: 22px;
-  left: 65px;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .twitter8914f81b .rectangle39336a8e51c {
-  position: absolute;
-  background-color: transparent;
-  border-color: rgba(149, 152, 154, 1);
-  border-width: 1px;
-  width: 22px;
-  height: 22px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .twitter8914f81b .path20b7ec115 {
-  position: absolute;
-  fill: rgba(18, 18, 18, 1);
-  width: 22.15px;
-  height: 17.97px;
-  left: 0;
-  top: 2.77px
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .instagram60a8908a {
-  display: block;
-  position: absolute;
-  overflow-x: unset;
-  overflow-y: unset;
-  background-color: transparent;
-  width: 23px;
-  height: 22px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .topsection .topbar93cbb644 .socialmediaf38f3d02 .instagram60a8908a .path332c48fcb {
-  position: absolute;
-  fill: rgba(18, 18, 18, 1);
-  width: 22.15px;
-  height: 22.15px;
-  left: 0;
-  top: 0
-}
-
 .landingpageweb .topsection .topbar {
   display: block;
   position: absolute;
@@ -1254,7 +984,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 192px;
+  line-height: 0;
   letter-spacing: .8px;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -1268,7 +998,7 @@ body {
   width: 104px;
   height: 39px;
   left: 97px;
-  top: -55.5px
+  top: 41px
 }
 
 .landingpageweb .topsection .topbar .btnprobard86c9473 .defaultstate1a072fee {
@@ -1302,7 +1032,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 192px;
+  line-height: 0;
   letter-spacing: .8px;
   color: rgba(255, 120, 130, 1);
   -webkit-text-stroke: 1px transparent;
@@ -1316,7 +1046,7 @@ body {
   width: 104px;
   height: 39px;
   left: 97px;
-  top: -55.5px
+  top: 41px
 }
 
 .landingpageweb .topsection .topbar .btnprobard86c9473:hover>.hoverstate405e1f78 {
@@ -1439,19 +1169,6 @@ body {
   height: 44px;
   left: 0;
   top: 106px
-}
-
-.landingpageweb .topsection .teammatchlogo080a8f1b .rectangle689 {
-  position: absolute;
-  box-sizing: border-box;
-  background-color: rgba(255, 255, 255, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-style: solid;
-  border-width: 1px;
-  width: 447px;
-  height: 44px;
-  left: 0;
-  top: 0
 }
 
 .landingpageweb .topsection .forwardArrowSmall {
@@ -1622,17 +1339,6 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1054px;
-  height: 67px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .misionsection .bgmision .topmision .maskGroup7f39ec310 .rectangle701a8f56b46 {
-  position: absolute;
-  background-color: rgba(242, 242, 242, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
   width: 1054px;
   height: 67px;
   left: 0;
@@ -2089,22 +1795,6 @@ body {
   top: 0
 }
 
-.landingpageweb .misionsection .sabermas .panel2 .maskGroup6aebfb4f8 .image1620d81f4 {
-  position: absolute;
-  background-image: url(assets/image1620d81f4.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  cursor: default;
-  background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 243px;
-  height: 288px;
-  left: 0;
-  top: -1px
-}
-
 .landingpageweb .misionsection .sabermas .panel3 {
   display: block;
   position: absolute;
@@ -2236,33 +1926,6 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 243px;
-  height: 279px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .misionsection .sabermas .panel3 .maskGroup6 .image1 {
-  position: absolute;
-  background-image: url(assets/image1.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  cursor: default;
-  background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 654px;
-  height: 759px;
-  left: -411px;
-  top: -61px
-}
-
-.landingpageweb .misionsection .sabermas .panel3 .maskGroup6 .rectangle697 {
-  position: absolute;
-  background-color: rgba(255, 255, 255, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
   width: 243px;
   height: 279px;
   left: 0;
@@ -2506,17 +2169,6 @@ body {
   top: 0
 }
 
-.landingpageweb .visionsection .topvision .maskGroup752626e0c .rectangle70140838051 {
-  position: absolute;
-  background-color: rgba(242, 242, 242, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 1054px;
-  height: 67px;
-  left: 0;
-  top: 0
-}
-
 .landingpageweb .visionsection .topvision .rectangle7028f0a0822 {
   position: absolute;
   opacity: .2;
@@ -2735,17 +2387,6 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 1054px;
-  height: 67px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .funcionessection .topfunciones .maskGroup7 .rectangle701 {
-  position: absolute;
-  background-color: rgba(242, 242, 242, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
   width: 1054px;
   height: 67px;
   left: 0;
@@ -3186,7 +2827,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 192px;
+  line-height: 0;
   letter-spacing: .8px;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
@@ -3200,7 +2841,7 @@ body {
   width: 104px;
   height: 39px;
   left: 97px;
-  top: -55.5px
+  top: 40px
 }
 
 .landingpageweb .funcionessection .btnprobar .defaultstate {
@@ -3236,7 +2877,7 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 192px;
+  line-height: 0;
   letter-spacing: .8px;
   color: rgba(255, 120, 130, 1);
   -webkit-text-stroke: 1px transparent;
@@ -3250,7 +2891,7 @@ body {
   width: 104px;
   height: 39px;
   left: 97px;
-  top: -55.5px
+  top: 40px
 }
 
 .landingpageweb .funcionessection .btnprobar:hover>.hoverstate {
@@ -3305,7 +2946,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: .30000001192092896;
+  opacity: .3;
   cursor: default;
   overflow-x: unset;
   overflow-y: unset;
@@ -3622,17 +3263,6 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 51px;
-  height: 55px;
-  left: 0;
-  top: 0
-}
-
-.landingpageweb .footersection .infofooter .teammatchlogo .rectangle755 {
-  position: absolute;
-  background-color: rgba(255, 255, 255, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
   width: 51px;
   height: 55px;
   left: 0;
