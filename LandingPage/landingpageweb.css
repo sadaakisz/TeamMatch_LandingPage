@@ -2048,9 +2048,9 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1919px;
-  height: 1221.92px;
-  left: 1px;
+  width: 99.947917vw; /* 1919px/1920 */
+  height: 63.641667vw; /* 1221.92px/1920 */
+  left: 0.052083vw; /* 1px/1920 */
   top: 0
 }
 
@@ -2059,10 +2059,10 @@ body {
   fill: rgba(32, 32, 32, 1);
   -webkit-filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
   filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
-  width: 1919px;
-  height: 1221.37px;
+  width: 99.947917vw; /* 1919px/1920 */
+  height: 63.613021vw; /* 1221.37px/1920 */
   left: 0;
-  top: .55px
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 {
@@ -2071,80 +2071,80 @@ body {
   opacity: .25;
   cursor: default;
   background-color: transparent;
-  width: 1631px;
-  height: 1221.92px;
-  left: 138.5px;
+  width: 84.947917vw; /* 1631px/1920 */
+  height: 63.641667vw; /* 1221.92px/1920 */
+  left: 7.213542vw; /* 138.5px/1920 */
   top: 0
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line162fbd00fe {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.92px;
-  left: -.5px;
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.641667vw; /* 1221.92px/1920 */
+  left: -0.026042vw; /* -0.5px/1920 */
   top: 0
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line17a82bdb05 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.92px;
-  left: 187.5px;
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.641667vw; /* 1221.92px/1920 */
+  left: 9.765625vw; /* 187.5px/1920 */
   top: 0
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line18bafbeb1f {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.87px;
-  left: 1442.5px;
-  top: .05px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.639063vw; /* 1221.87px/1920 */
+  left: 75.130208vw; /* 1442.5px/1920 */
+  top: 0
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line19671c16f3 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.37px;
-  left: 726.5px;
-  top: .55px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.613021vw; /* 1221.37px/1920 */
+  left: 37.838542vw; /* 726.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line20046553a2 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.87px;
-  left: 1630.5px;
-  top: .05px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.639063vw; /* 1221.87px/1920 */
+  left: 84.921875vw; /* 1630.5px/1920 */
+  top: 0
 }
 
 .landingpageweb .funcionessection .bgfunciones .linesb3611314 .line2158691437 {
   position: absolute;
   stroke: rgba(112, 112, 112, 1);
-  stroke-width: 1px;
-  width: 1px;
-  height: 1221.37px;
-  left: 914.5px;
-  top: .55px
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 63.613021vw; /* 1221.37px/1920 */
+  left: 47.630208vw; /* 914.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .funcionessection .topfunciones {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1920px;
-  height: 67px;
+  width: 100vw; /* 1920px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
   left: 0;
-  top: .55px
+  top: 0.028646vw; /* 0.55px/1920 */
 }
 
 .landingpageweb .funcionessection .topfunciones .maskGroup7 {
@@ -2157,8 +2157,8 @@ body {
   opacity: .2;
   cursor: default;
   background-color: transparent;
-  width: 1054px;
-  height: 67px;
+  width: 54.895833vw; /* 1054px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
   left: 0;
   top: 0
 }
@@ -2168,11 +2168,9 @@ body {
   opacity: .2;
   cursor: default;
   background-color: rgba(242, 242, 242, 1);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 865px;
-  height: 67px;
-  left: 1055px;
+  width: 45.052083vw; /* 865px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
+  left: 54.947917vw; /* 1055px/1920 */
   top: 0
 }
 
@@ -2180,101 +2178,101 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 362px;
-  height: 172px;
-  left: 323px;
-  top: 158.55px
+  width: 18.854167vw; /* 362px/1920 */
+  height: 8.958333vw; /* 172px/1920 */
+  left: 16.822917vw; /* 323px/1920 */
+  top: 8.257813vw; /* 158.55px/1920 */
 }
 
 .landingpageweb .funcionessection .titlefunciones .funciones3efca486 {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
-  line-height: 144px;
+  line-height: 7.5vw; /* 144px/1920 */
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: unset;
-  font-size: 78px;
+  font-size: 4.0625vw; /* 78px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 362px;
-  height: 97px;
+  width: 18.854167vw; /* 362px/1920 */
+  height: 5.052083vw; /* 97px/1920 */
   left: 0;
-  top: 51.5px
+  top: 2.682292vw; /* 51.5px/1920 */
 }
 
 .landingpageweb .funcionessection .titlefunciones .coreFunctionality {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 92px;
-  letter-spacing: .63px;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(117, 145, 255, 1);
   -webkit-text-stroke: unset;
-  font-size: 25px;
+  font-size: 1.302083vw; /* 25px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 271px;
-  height: 34px;
-  left: 5px;
-  top: -30.5px
+  width: 14.114583vw; /* 271px/1920 */
+  height: 1.770833vw; /* 34px/1920 */
+  left: 0.260417vw; /* 5px/1920 */
+  top: -1.588542vw; /* -30.5px/1920 */
 }
 
 .landingpageweb .funcionessection .filter {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1443px;
-  height: 114px;
-  left: 327px;
-  top: 448.55px
+  width: 75.15625vw; /* 1443px/1920 */
+  height: 5.9375vw; /* 114px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 23.361979vw; /* 448.55px/1920 */
 }
 
 .landingpageweb .funcionessection .filter .setYourFilters {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.5px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 60px;
+  font-size: 3.125vw; /* 60px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 419px;
-  height: 74px;
-  left: 100px;
-  top: -3px
+  width: 21.822917vw; /* 419px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
+  left: 5.208333vw; /* 100px/1920 */
+  top: -0.15625vw; /* -3px/1920 */
 }
 
 .landingpageweb .funcionessection .filter .seleccionaUnConjuntoDeFiltrosParaBuscarALosJugadoresMasAdecuadosATuEquipo {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 31px;
-  letter-spacing: .15px;
+  line-height: 1.614583vw; /* 31px/1920 */
+  letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 31px;
+  font-size: 1.614583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 625px;
-  height: 109px;
-  left: 726px;
-  top: 8.5px
+  width: 32.552083vw; /* 625px/1920 */
+  height: 5.677083vw; /* 109px/1920 */
+  left: 37.8125vw; /* 726px/1920 */
+  top: 0.442708vw; /* 8.5px/1920 */
 }
 
 .landingpageweb .funcionessection .filter .path235 {
   position: absolute;
   fill: transparent;
-  width: 12px;
-  height: 74px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
   left: 0;
   top: 0
 }
@@ -2282,9 +2280,9 @@ body {
 .landingpageweb .funcionessection .filter .path236 {
   position: absolute;
   fill: transparent;
-  width: 12px;
-  height: 114px;
-  left: 1431px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 5.9375vw; /* 114px/1920 */
+  left: 74.53125vw; /* 1431px/1920 */
   top: 0
 }
 
@@ -2292,47 +2290,47 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1443px;
-  height: 128px;
-  left: 327px;
-  top: 631.55px
+  width: 75.15625vw; /* 1443px/1920 */
+  height: 6.666667vw; /* 128px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 32.893229vw; /* 631.55px/1920 */
 }
 
 .landingpageweb .funcionessection .fill .fillYourTeam {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.5px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 60px;
+  font-size: 3.125vw; /* 60px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 392px;
-  height: 74px;
-  left: 100px;
-  top: -3px
+  width: 20.416667vw; /* 392px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
+  left: 5.208333vw; /* 100px/1920 */
+  top: -0.15625vw; /* -3px/1920 */
 }
 
 .landingpageweb .funcionessection .fill .teFaltaUnoODosIntegrantesParaCompletarUnSquadTeBrindamosUnaListaParaQueElijasElMejor {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 31px;
-  letter-spacing: .15px;
+  line-height: 1.614583vw; /* 31px/1920 */
+  letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 31px;
+  font-size: 1.614583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 625px;
-  height: 112px;
-  left: 726px;
-  top: 19.5px
+  width: 32.552083vw; /* 625px/1920 */
+  height: 5.833333vw; /* 112px/1920 */
+  left: 37.8125vw; /* 726px/1920 */
+  top: 1.015625vw; /* 19.5px/1920 */
 }
 
 .landingpageweb .funcionessection .fill .rectangle708 {
@@ -2343,10 +2341,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 12px;
-  height: 74px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
   left: 0;
   top: 0
 }
@@ -2359,11 +2355,9 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 12px;
-  height: 128px;
-  left: 1431px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 6.666667vw; /* 128px/1920 */
+  left: 74.53125vw; /* 1431px/1920 */
   top: 0
 }
 
@@ -2371,47 +2365,47 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1443px;
-  height: 126px;
-  left: 327px;
-  top: 835.55px
+  width: 75.15625vw; /* 1443px/1920 */
+  height: 6.5625vw; /* 126px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 43.518229vw; /* 835.55px/1920 */
 }
 
 .landingpageweb .funcionessection .find .findATeam {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.5px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 60px;
+  font-size: 3.125vw; /* 60px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 346px;
-  height: 74px;
-  left: 100px;
-  top: -3px
+  width: 18.020833vw; /* 346px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
+  left: 5.208333vw; /* 100px/1920 */
+  top: -0.15625vw; /* -3px/1920 */
 }
 
 .landingpageweb .funcionessection .find .necesitasUnEquipoTeammatchTeAyudaAEncontrarUnEquipoParaTusVideojuegosPreferidos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 31px;
-  letter-spacing: .15px;
+  line-height: 1.614583vw; /* 31px/1920 */
+  letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 31px;
+  font-size: 1.614583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 625px;
-  height: 112px;
-  left: 726px;
-  top: 17.5px
+  width: 32.552083vw; /* 625px/1920 */
+  height: 5.833333vw; /* 112px/1920 */
+  left: 37.8125vw; /* 726px/1920 */
+  top: 0.911458vw; /* 17.5px/1920 */
 }
 
 .landingpageweb .funcionessection .find .rectangle709 {
@@ -2422,10 +2416,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 12px;
-  height: 74px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
   left: 0;
   top: 0
 }
@@ -2438,11 +2430,9 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 12px;
-  height: 126px;
-  left: 1431px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 6.5625vw; /* 126px/1920 */
+  left: 74.53125vw; /* 1431px/1920 */
   top: 0
 }
 
@@ -2450,47 +2440,47 @@ body {
   display: block;
   position: absolute;
   background-color: transparent;
-  width: 1443px;
-  height: 123px;
-  left: 327px;
-  top: 1038.55px
+  width: 75.15625vw; /* 1443px/1920 */
+  height: 6.40625vw; /* 123px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 54.091146vw; /* 1038.55px/1920 */
 }
 
 .landingpageweb .funcionessection .chatcd782805 .chat {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 80px;
-  letter-spacing: 1.5px;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 60px;
+  font-size: 3.125vw; /* 60px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 143px;
-  height: 74px;
-  left: 100px;
-  top: -3px
+  width: 7.447917vw; /* 143px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
+  left: 5.208333vw; /* 100px/1920 */
+  top: -0.15625vw; /* -3px/1920 */
 }
 
 .landingpageweb .funcionessection .chatcd782805 .conectateConTusAmigosDePreferenciaParaLosPreparativosYEstrategiasDeTusJuegos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 31px;
-  letter-spacing: .15px;
+  line-height: 1.614583vw; /* 31px/1920 */
+  letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 31px;
+  font-size: 1.614583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
-  width: 625px;
-  height: 111px;
-  left: 726px;
-  top: 15.5px
+  width: 32.552083vw; /* 625px/1920 */
+  height: 5.78125vw; /* 111px/1920 */
+  left: 37.8125vw; /* 726px/1920 */
+  top: 0.807292vw; /* 15.5px/1920 */
 }
 
 .landingpageweb .funcionessection .chatcd782805 .rectangle710 {
@@ -2501,10 +2491,8 @@ body {
   background-size: cover;
   cursor: default;
   background-color: rgba(255, 255, 255, 0);
-  border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 12px;
-  height: 74px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 3.854167vw; /* 74px/1920 */
   left: 0;
   top: 0
 }
@@ -2512,9 +2500,9 @@ body {
 .landingpageweb .funcionessection .chatcd782805 .path237 {
   position: absolute;
   fill: transparent;
-  width: 12px;
-  height: 123px;
-  left: 1431px;
+  width: 0.625vw; /* 12px/1920 */
+  height: 6.40625vw; /* 123px/1920 */
+  left: 74.53125vw; /* 1431px/1920 */
   top: 0
 }
 
@@ -2523,10 +2511,10 @@ body {
   position: absolute;
   cursor: pointer;
   background-color: transparent;
-  width: 302px;
-  height: 81px;
-  left: 1469px;
-  top: 253.55px;
+  width: 15.729167vw; /* 302px/1920 */
+  height: 4.21875vw; /* 81px/1920 */
+  left: 76.510417vw; /* 1469px/1920 */
+  top: 13.205729vw; /* 253.55px/1920 */
   border: none;
   outline: 0
 }
@@ -2537,8 +2525,8 @@ body {
   display: none;
   cursor: pointer;
   background-color: transparent;
-  width: 302px;
-  height: 81px;
+  width: 15.729167vw; /* 302px/1920 */
+  height: 4.21875vw; /* 81px/1920 */
   left: 0;
   top: 0
 }
@@ -2550,10 +2538,10 @@ body {
   background-color: transparent;
   border-color: rgba(255, 255, 255, 1);
   border-style: solid;
-  border-width: 2px;
-  border-radius: 41px;
-  width: 302px;
-  height: 81px;
+  border-width: 0.104167vw; /* 2px/1920 */
+  border-radius: 2.135417vw; /* 41px/1920 */
+  width: 15.729167vw; /* 302px/1920 */
+  height: 4.21875vw; /* 81px/1920 */
   left: 0;
   top: 0
 }
@@ -2564,18 +2552,18 @@ body {
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
   line-height: 0;
-  letter-spacing: .8px;
+  letter-spacing: 0.041667vw; /* 0.8px/1920 */
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 32px;
+  font-size: 1.666667vw; /* 32px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 104px;
-  height: 39px;
-  left: 97px;
-  top: 40px
+  width: 5.416667vw; /* 104px/1920 */
+  height: 2.03125vw; /* 39px/1920 */
+  left: 5.052083vw; /* 97px/1920 */
+  top: 2.083333vw; /* 40px/1920 */
 }
 
 .landingpageweb .funcionessection .btnprobar .defaultstate {
@@ -2583,8 +2571,8 @@ body {
   position: absolute;
   cursor: pointer;
   background-color: transparent;
-  width: 302px;
-  height: 81px;
+  width: 15.729167vw; /* 302px/1920 */
+  height: 4.21875vw; /* 81px/1920 */
   left: 0;
   top: 0
 }
@@ -2596,10 +2584,10 @@ body {
   background-color: rgba(32, 32, 32, 1);
   border-color: rgba(255, 117, 135, 1);
   border-style: solid;
-  border-width: 2px;
-  border-radius: 46px;
-  width: 302px;
-  height: 81px;
+  border-width: 0.104167vw; /* 2px/1920 */
+  border-radius: 2.395833vw; /* 46px/1920 */
+  width: 15.729167vw; /* 302px/1920 */
+  height: 4.21875vw; /* 81px/1920 */
   left: 0;
   top: 0
 }
@@ -2610,18 +2598,18 @@ body {
   background-color: rgba(255, 255, 255, 0);
   text-align: center;
   line-height: 0;
-  letter-spacing: .8px;
+  letter-spacing: 0.041667vw; /* 0.8px/1920 */
   color: rgba(255, 120, 130, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 32px;
+  font-size: 1.666667vw; /* 32px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   white-space: pre;
-  width: 104px;
-  height: 39px;
-  left: 97px;
-  top: 40px
+  width: 5.416667vw; /* 104px/1920 */
+  height: 2.03125vw; /* 39px/1920 */
+  left: 5.052083vw; /* 97px/1920 */
+  top: 2.083333vw; /* 40px/1920 */
 }
 
 .landingpageweb .funcionessection .btnprobar:hover>.hoverstate {
