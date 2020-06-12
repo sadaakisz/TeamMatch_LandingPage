@@ -129,30 +129,30 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 816px;
-  height: 552.46px;
-  left: 1067px;
-  top: 144px
+  width: 42.5vw; /* 816px/1920 */
+  height: 28.773958vw; /* 552.46px/1920 */
+  left: 55.572917vw; /* 1067px/1920 */
+  top: 7.5vw; /* 144px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .teammatchaTuAlcance {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 92px;
-  letter-spacing: 1.95px;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.101563vw; /* 1.95px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 78px;
+  font-size: 4.0625vw; /* 78px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
-  width: 495px;
-  height: 189px;
-  left: 1px;
-  top: 57px
+  width: 25.78125vw; /* 495px/1920 */
+  height: 9.84375vw; /* 189px/1920 */
+  left: 0.052083vw; /* 1px/1920 */
+  top: 2.96875vw; /* 57px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore {
@@ -162,10 +162,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 339.06px;
-  height: 89.96px;
-  left: .85px;
-  top: 462.5px;
+  width: 17.659375vw; /* 339.06px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
+  left: 0.044271vw; /* 0.85px/1920 */
+  top: 24.088542vw; /* 462.5px/1920 */
   border: none;
   outline: 0
 }
@@ -177,8 +177,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 338.89px;
-  height: 89.84px;
+  width: 17.650521vw; /* 338.89px/1920 */
+  height: 4.679167vw; /* 89.84px/1920 */
   left: 0;
   top: 0
 }
@@ -190,10 +190,10 @@ body {
   background-color: transparent;
   border-color: rgba(255, 153, 74, 1);
   border-style: solid;
-  border-width: 2px;
-  border-radius: 45px;
-  width: 338.89px;
-  height: 89.84px;
+  border-width: 0.104167vw; /* 2px/1920 */
+  border-radius: 2.34375vw; /* 45px/1920 */
+  width: 17.650521vw; /* 338.89px/1920 */
+  height: 4.679167vw; /* 89.84px/1920 */
   left: 0;
   top: 0
 }
@@ -205,10 +205,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 231.09px;
-  height: 50px;
-  left: 54.15px;
-  top: 21.31px
+  width: 12.035938vw; /* 231.09px/1920 */
+  height: 2.604167vw; /* 50px/1920 */
+  left: 2.820313vw; /* 54.15px/1920 */
+  top: 1.109896vw; /* 21.31px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .hoverstatebc7b45af .inside7a6ac920 .playStorebef63dd4 {
@@ -220,17 +220,17 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.770833vw; /* 34px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
   white-space: pre;
-  width: 158px;
-  height: 42px;
-  left: 73.09px;
-  top: 24px
+  width: 8.229167vw; /* 158px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.806771vw; /* 73.09px/1920 */
+  top: 1.25vw; /* 24px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .hoverstatebc7b45af .inside7a6ac920 .playstore10466fd0 {
@@ -240,8 +240,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 50px;
-  height: 50px;
+  width: 2.604167vw; /* 50px/1920 */
+  height: 2.604167vw; /* 50px/1920 */
   left: 0;
   top: 0
 }
@@ -255,9 +255,9 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 50px;
-  height: 49px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 2.604167vw; /* 50px/1920 */
+  height: 2.552083vw; /* 49px/1920 */
   left: 0;
   top: 0
 }
@@ -269,9 +269,9 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 338.91px;
-  height: 89.96px;
-  left: .15px;
+  width: 17.651563vw; /* 338.91px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
+  left: 0.007813vw; /* 0.15px/1920 */
   top: 0
 }
 
@@ -279,8 +279,8 @@ body {
   position: absolute;
   cursor: pointer;
   fill: transparent;
-  width: 338.91px;
-  height: 89.96px;
+  width: 17.651563vw; /* 338.91px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
   left: 0;
   top: 0
 }
@@ -292,10 +292,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 231.09px;
-  height: 50px;
-  left: 54px;
-  top: 21.39px
+  width: 12.035938vw; /* 231.09px/1920 */
+  height: 2.604167vw; /* 50px/1920 */
+  left: 2.8125vw; /* 54px/1920 */
+  top: 1.114062vw; /* 21.39px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .defaultstate9f939f09 .insidedaa0cb2d .playStore {
@@ -307,17 +307,17 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.770833vw; /* 34px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
   white-space: pre;
-  width: 158px;
-  height: 42px;
-  left: 73.09px;
-  top: 24px
+  width: 8.229167vw; /* 158px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.806771vw; /* 73.09px/1920 */
+  top: 1.25vw; /* 24px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnplaystore .defaultstate9f939f09 .insidedaa0cb2d .playstorebc361a32 {
@@ -327,8 +327,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 50px;
-  height: 50px;
+  width: 2.604167vw; /* 50px/1920 */
+  height: 2.604167vw; /* 50px/1920 */
   left: 0;
   top: 0
 }
@@ -342,9 +342,9 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 50px;
-  height: 49px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 2.604167vw; /* 50px/1920 */
+  height: 2.552083vw; /* 49px/1920 */
   left: 0;
   top: 0
 }
@@ -364,10 +364,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 338.91px;
-  height: 89.96px;
-  left: 411px;
-  top: 462.11px;
+  width: 17.651563vw; /* 338.91px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
+  left: 21.40625vw; /* 411px/1920 */
+  top: 24.068229vw; /* 462.11px/1920 */
   border: none;
   outline: 0
 }
@@ -380,8 +380,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 338.89px;
-  height: 89.84px;
+  width: 17.650521vw; /* 338.89px/1920 */
+  height: 4.679167vw; /* 89.84px/1920 */
   left: 0;
   top: 0
 }
@@ -393,10 +393,10 @@ body {
   background-color: transparent;
   border-color: rgba(117, 145, 255, 1);
   border-style: solid;
-  border-width: 2px;
-  border-radius: 45px;
-  width: 338.89px;
-  height: 89.84px;
+  border-width: 0.104167vw; /* 2px/1920 */
+  border-radius: 2.34375vw; /* 45px/1920 */
+  width: 17.650521vw; /* 338.89px/1920 */
+  height: 4.679167vw; /* 89.84px/1920 */
   left: 0;
   top: 0
 }
@@ -408,10 +408,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 222.84px;
-  height: 42px;
-  left: 58px;
-  top: 24.19px
+  width: 11.60625vw; /* 222.84px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.020833vw; /* 58px/1920 */
+  top: 1.259896vw; /* 24.19px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .hoverstate60707eda .inside61617146 .appStore6ddaaa0d {
@@ -423,17 +423,17 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.770833vw; /* 34px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
   white-space: pre;
-  width: 156px;
-  height: 42px;
-  left: 66.84px;
-  top: 21px
+  width: 8.125vw; /* 156px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.48125vw; /* 66.84px/1920 */
+  top: 1.09375vw; /* 21px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .hoverstate60707eda .inside61617146 .appstore20c787e1 {
@@ -443,10 +443,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 36px;
-  height: 36px;
+  width: 1.875vw; /* 36px/1920 */
+  height: 1.875vw; /* 36px/1920 */
   left: 0;
-  top: 2.12px
+  top: 0.110417vw; /* 2.12px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .hoverstate60707eda .inside61617146 .appstore20c787e1 .pngbarnc55795f9 {
@@ -458,9 +458,9 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 36px;
-  height: 36px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 1.875vw; /* 36px/1920 */
+  height: 1.875vw; /* 36px/1920 */
   left: 0;
   top: 0
 }
@@ -472,8 +472,8 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 338.91px;
-  height: 89.96px;
+  width: 17.651563vw; /* 338.91px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
   left: 0;
   top: 0
 }
@@ -482,8 +482,8 @@ body {
   position: absolute;
   cursor: pointer;
   fill: transparent;
-  width: 338.91px;
-  height: 89.96px;
+  width: 17.651563vw; /* 338.91px/1920 */
+  height: 4.685417vw; /* 89.96px/1920 */
   left: 0;
   top: 0
 }
@@ -495,10 +495,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 222.84px;
-  height: 42px;
-  left: 58px;
-  top: 24.27px
+  width: 11.60625vw; /* 222.84px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.020833vw; /* 58px/1920 */
+  top: 1.264062vw; /* 24.27px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .defaultstate5ae1c080 .inside78562461 .appStore {
@@ -510,17 +510,17 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.770833vw; /* 34px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
   white-space: pre;
-  width: 156px;
-  height: 42px;
-  left: 66.84px;
-  top: 21px
+  width: 8.125vw; /* 156px/1920 */
+  height: 2.1875vw; /* 42px/1920 */
+  left: 3.48125vw; /* 66.84px/1920 */
+  top: 1.09375vw; /* 21px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .defaultstate5ae1c080 .inside78562461 .appstore {
@@ -530,10 +530,10 @@ body {
   overflow-x: unset;
   overflow-y: unset;
   background-color: transparent;
-  width: 36px;
-  height: 36px;
+  width: 1.875vw; /* 36px/1920 */
+  height: 1.875vw; /* 36px/1920 */
   left: 0;
-  top: 2.12px
+  top: 0.110417vw; /* 2.12px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .btnappstore .defaultstate5ae1c080 .inside78562461 .appstore .pngbarn {
@@ -545,9 +545,9 @@ body {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0);
   border-color: rgba(112, 112, 112, 1);
-  border-width: 1px;
-  width: 36px;
-  height: 36px;
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 1.875vw; /* 36px/1920 */
+  height: 1.875vw; /* 36px/1920 */
   left: 0;
   top: 0
 }
@@ -564,41 +564,41 @@ body {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 45px;
-  letter-spacing: .68px;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.035417vw; /* 0.68px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 34px;
+  font-size: 1.750833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
   white-space: pre;
-  width: 816px;
-  height: 131px;
+  width: 42.5vw; /* 816px/1920 */
+  height: 6.822917vw; /* 131px/1920 */
   left: 0;
-  top: 275.5px
+  top: 14.358958vw; /* 275.5px/1920 */
 }
 
 .landingpageweb .mobilesection .mobilecta .aplicacionMovil {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
-  line-height: 92px;
+  line-height: 4.791667vw; /* 92px/1920 */
   letter-spacing: 0;
   color: rgba(255, 117, 135, 1);
   -webkit-text-stroke: unset;
-  font-size: 25px;
+  font-size: 1.302083vw; /* 25px/1920 */
   font-weight: 700;
   font-style: normal;
   font-family: 'Gilroy ☞', Arial;
   overflow-x: unset;
   overflow-y: unset;
-  width: 276px;
-  height: 34px;
+  width: 14.375vw; /* 276px/1920 */
+  height: 1.770833vw; /* 34px/1920 */
   left: 0;
-  top: -30.5px
+  top: -1.588542vw; /* -30.5px/1920 */
 }
 
 .landingpageweb .mobilesection .tmmockupsmask {
