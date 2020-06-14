@@ -515,7 +515,7 @@ body {
   display: none
 }
 
-.landingpageweb .mobilesection .mobilecta .utilizaNuestraAplicacionMovilParaBuscarjugadoresOEquiposSinLaNecesidadDeAbrirUnaPestanaEnTuNavegadorOAlttabDelJuego {
+.landingpageweb .mobilesection .mobilecta .utiliza {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -798,7 +798,7 @@ body {
   display: none
 }
 
-.landingpageweb .topsection .cta .conectateConJugadoresDePerfilesSimilaresenBaseAFiltrosPreviosConElFinDeCompletarequipospartidasParaTusVideojuegosFavoritos {
+.landingpageweb .topsection .cta .conectate {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -1220,7 +1220,7 @@ body {
   top: 7.528646vw; /* 144.55px/1920 */
 }
 
-.landingpageweb .misionsection .mision8240744c .somosUnaEmpresaDedicadaABrindarSolucionesMovilesConElFinDeAyudarAJugadoresDeLaLocalidadParaMejorarSuExperienciaDeEmparejamientoMultijugador {
+.landingpageweb .misionsection .mision8240744c .somos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -1952,7 +1952,7 @@ body {
   top: 7.96875vw; /* 153px/1920 */
 }
 
-.landingpageweb .visionsection .vision8c6f54cd .loQueMasBuscamosALargoPlazoEsSerLaPrimeraEleccionDeLasEmpresasDeVideojuegosParaPoderAyudarlesAConseguirEnSusJuegosLaMejorExperienciaMultijugadorYOnline {
+.landingpageweb .visionsection .vision8c6f54cd .loQueMasBuscamos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
