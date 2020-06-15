@@ -4,7 +4,7 @@ html {
 }
 
 *{
-  font-family: 'Gilroy ☞', Helvetica, Arial, sans-serif;
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
 }
 
 body {
@@ -141,8 +141,8 @@ body {
   letter-spacing: 0.101563vw; /* 1.95px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 25.78125vw; /* 495px/1920 */
   height: 9.84375vw; /* 189px/1920 */
@@ -209,8 +209,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
-  font-weight: 700;
+  font-size: 1.600833vw; /* 34px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 8.229167vw; /* 158px/1920 */
@@ -287,8 +287,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
-  font-weight: 700;
+  font-size: 1.600833vw; /* 34px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 8.229167vw; /* 158px/1920 */
@@ -392,8 +392,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
-  font-weight: 700;
+  font-size: 1.600833vw; /* 34px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 8.125vw; /* 156px/1920 */
@@ -470,8 +470,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
-  font-weight: 700;
+  font-size: 1.600833vw; /* 34px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 8.125vw; /* 156px/1920 */
@@ -515,7 +515,7 @@ body {
   display: none
 }
 
-.landingpageweb .mobilesection .mobilecta .utilizaNuestraAplicacionMovilParaBuscarjugadoresOEquiposSinLaNecesidadDeAbrirUnaPestanaEnTuNavegadorOAlttabDelJuego {
+.landingpageweb .mobilesection .mobilecta .utiliza {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -523,7 +523,7 @@ body {
   letter-spacing: 0.035417vw; /* 0.68px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.750833vw; /* 34px/1920 */
+  font-size: 1.580833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   white-space: pre;
@@ -541,11 +541,11 @@ body {
   letter-spacing: 0;
   color: rgba(255, 117, 135, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.375vw; /* 276px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 0;
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -619,8 +619,8 @@ body {
   letter-spacing: 0.101563vw; /* 1.95px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.3025vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 41.041667vw; /* 788px/1920 */
   height: 9.84375vw; /* 189px/1920 */
@@ -687,8 +687,8 @@ body {
   letter-spacing: 0.045833vw; /* 0.88px/1920 */
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.822917vw; /* 35px/1920 */
-  font-weight: 700;
+  font-size: 1.642917vw; /* 35px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 10vw; /* 192px/1920 */
@@ -759,8 +759,8 @@ body {
   letter-spacing: 0.045833vw; /* 0.88px/1920 */
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.822917vw; /* 35px/1920 */
-  font-weight: 700;
+  font-size: 1.642917vw; /* 35px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 10vw; /* 192px/1920 */
@@ -798,7 +798,7 @@ body {
   display: none
 }
 
-.landingpageweb .topsection .cta .conectateConJugadoresDePerfilesSimilaresenBaseAFiltrosPreviosConElFinDeCompletarequipospartidasParaTusVideojuegosFavoritos {
+.landingpageweb .topsection .cta .conectate {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -806,7 +806,7 @@ body {
   letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
+  font-size: 1.440833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   white-space: pre;
@@ -824,11 +824,11 @@ body {
   letter-spacing: 0;
   color: rgba(255, 153, 74, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.375vw; /* 276px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 0;
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -892,8 +892,8 @@ body {
   letter-spacing: .8px;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.666667vw; /* 32px/1920 */
-  font-weight: 700;
+  font-size: 1.506667vw; /* 32px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 5.416667vw; /* 104px/1920 */
@@ -935,8 +935,8 @@ body {
   letter-spacing: .8px;
   color: rgba(255, 120, 130, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.666667vw; /* 32px/1920 */
-  font-weight: 700;
+  font-size: 1.506667vw; /* 32px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 5.416667vw; /* 104px/1920 */
@@ -1220,7 +1220,7 @@ body {
   top: 7.528646vw; /* 144.55px/1920 */
 }
 
-.landingpageweb .misionsection .mision8240744c .somosUnaEmpresaDedicadaABrindarSolucionesMovilesConElFinDeAyudarAJugadoresDeLaLocalidadParaMejorarSuExperienciaDeEmparejamientoMultijugador {
+.landingpageweb .misionsection .mision8240744c .somos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -1228,7 +1228,7 @@ body {
   letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
+  font-size: 1.440833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 27.760417vw; /* 533px/1920 */
@@ -1245,8 +1245,8 @@ body {
   letter-spacing: 0.060937vw; /* 1.17px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 15vw; /* 288px/1920 */
@@ -1263,11 +1263,11 @@ body {
   letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(255, 153, 74, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.375vw; /* 276px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 0;
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -1290,8 +1290,8 @@ body {
   letter-spacing: 0.060937vw; /* 1.17px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 20.677083vw; /* 397px/1920 */
@@ -1308,11 +1308,11 @@ body {
   letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(255, 117, 135, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.375vw; /* 276px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 2.291667vw; /* 44px/1920 */
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -1378,7 +1378,7 @@ body {
   color: rgba(58, 58, 58, 1);
   -webkit-text-stroke: 1px transparent;
   font-size: 2.1875vw; /* 42px/1920 */
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
   width: 5.78125vw; /* 111px/1920 */
   height: 2.916667vw; /* 56px/1920 */
@@ -1394,8 +1394,8 @@ body {
   letter-spacing: 0.039063vw; /* 0.75px/1920 */
   color: rgba(58, 58, 58, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 0.78125vw; /* 15px/1920 */
-  font-weight: 700;
+  font-size: 0.71125vw; /* 15px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 6.614583vw; /* 127px/1920 */
   height: 1.09375vw; /* 21px/1920 */
@@ -1421,8 +1421,8 @@ body {
   letter-spacing: 0.039063vw; /* 0.75px/1920 */
   color: rgba(223, 42, 66, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 0.78125vw; /* 15px/1920 */
-  font-weight: 700;
+  font-size: 0.71125vw; /* 15px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 6.614583vw; /* 127px/1920 */
   height: 1.041667vw; /* 20px/1920 */
@@ -1498,8 +1498,8 @@ body {
   letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 0.885417vw; /* 17px/1920 */
-  font-weight: 700;
+  font-size: 0.805417vw; /* 17px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 6.614583vw; /* 127px/1920 */
   height: 2.135417vw; /* 41px/1920 */
@@ -1509,36 +1509,36 @@ body {
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria .gamingIndustria-0 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria .gamingIndustria-6 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria .gamingIndustria-7 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel2 .group21c44a9788 .gamingIndustria .gamingIndustria-9 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
@@ -1650,8 +1650,8 @@ body {
   letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 0.885417vw; /* 17px/1920 */
-  font-weight: 700;
+  font-size: 0.805417vw; /* 17px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 7.552083vw; /* 145px/1920 */
   height: 2.135417vw; /* 41px/1920 */
@@ -1661,36 +1661,36 @@ body {
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking .multiplayerMatchmaking-0 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking .multiplayerMatchmaking-11 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking .multiplayerMatchmaking-12 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
 
 .landingpageweb .misionsection .sabermas .panel3 .group21 .multiplayerMatchmaking .multiplayerMatchmaking-14 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.805417vw; /* 17px/1920 */
   letter-spacing: 0.044271vw; /* 0.85/1920 */
   text-decoration: none
 }
@@ -1952,7 +1952,7 @@ body {
   top: 7.96875vw; /* 153px/1920 */
 }
 
-.landingpageweb .visionsection .vision8c6f54cd .loQueMasBuscamosALargoPlazoEsSerLaPrimeraEleccionDeLasEmpresasDeVideojuegosParaPoderAyudarlesAConseguirEnSusJuegosLaMejorExperienciaMultijugadorYOnline {
+.landingpageweb .visionsection .vision8c6f54cd .loQueMasBuscamos {
   position: absolute;
   background-color: rgba(255, 255, 255, 0);
   text-align: left;
@@ -1960,7 +1960,7 @@ body {
   letter-spacing: 0.044271vw; /* 0.85px/1920 */
   color: rgba(35, 35, 35, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.770833vw; /* 34px/1920 */
+  font-size: 1.600833vw; /* 34px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 30.260417vw; /* 581px/1920 */
@@ -1977,8 +1977,8 @@ body {
   letter-spacing: 0.101563vw; /* 1.95px/1920 */
   color: rgba(35, 35, 35, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 15.625vw; /* 300px/1920 */
   height: 9.270833vw; /* 178px/1920 */
@@ -1994,11 +1994,11 @@ body {
   letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(77, 86, 209, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.375vw; /* 276px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 0;
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -2161,8 +2161,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: unset;
-  font-size: 4.0625vw; /* 78px/1920 */
-  font-weight: 700;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 18.854167vw; /* 362px/1920 */
@@ -2179,11 +2179,11 @@ body {
   letter-spacing: 0.032813vw; /* 0.63px/1920 */
   color: rgba(117, 145, 255, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.302083vw; /* 25px/1920 */
-  font-weight: 700;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.114583vw; /* 271px/1920 */
-  height: 1.770833vw; /* 34px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
   left: 0.260417vw; /* 5px/1920 */
   top: -1.588542vw; /* -30.5px/1920 */
 }
@@ -2206,8 +2206,8 @@ body {
   letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 3.125vw; /* 60px/1920 */
-  font-weight: 700;
+  font-size: 2.825vw; /* 60px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 21.822917vw; /* 419px/1920 */
@@ -2224,7 +2224,7 @@ body {
   letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.614583vw; /* 31px/1920 */
+  font-size: 1.454583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 32.552083vw; /* 625px/1920 */
@@ -2269,8 +2269,8 @@ body {
   letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 3.125vw; /* 60px/1920 */
-  font-weight: 700;
+  font-size: 2.825vw; /* 60px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 20.416667vw; /* 392px/1920 */
@@ -2287,7 +2287,7 @@ body {
   letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.614583vw; /* 31px/1920 */
+  font-size: 1.454583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 32.552083vw; /* 625px/1920 */
@@ -2342,8 +2342,8 @@ body {
   letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 3.125vw; /* 60px/1920 */
-  font-weight: 700;
+  font-size: 2.825vw; /* 60px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 18.020833vw; /* 346px/1920 */
@@ -2360,7 +2360,7 @@ body {
   letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.614583vw; /* 31px/1920 */
+  font-size: 1.454583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 32.552083vw; /* 625px/1920 */
@@ -2415,8 +2415,8 @@ body {
   letter-spacing: 0.078125vw; /* 1.5px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 3.125vw; /* 60px/1920 */
-  font-weight: 700;
+  font-size: 2.825vw; /* 60px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 7.447917vw; /* 143px/1920 */
@@ -2433,7 +2433,7 @@ body {
   letter-spacing: 0.007813vw; /* 0.15px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.614583vw; /* 31px/1920 */
+  font-size: 1.454583vw; /* 31px/1920 */
   font-weight: 500;
   font-style: normal;
   width: 32.552083vw; /* 625px/1920 */
@@ -2514,8 +2514,8 @@ body {
   letter-spacing: 0.041667vw; /* 0.8px/1920 */
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.666667vw; /* 32px/1920 */
-  font-weight: 700;
+  font-size: 1.506667vw; /* 32px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 5.416667vw; /* 104px/1920 */
@@ -2559,8 +2559,8 @@ body {
   letter-spacing: 0.041667vw; /* 0.8px/1920 */
   color: rgba(255, 120, 130, 1);
   -webkit-text-stroke: 1px transparent;
-  font-size: 1.666667vw; /* 32px/1920 */
-  font-weight: 700;
+  font-size: 1.506667vw; /* 32px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 5.416667vw; /* 104px/1920 */
@@ -2681,8 +2681,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 5.416667vw; /* 104px/1920 */
   height: 1.197917vw; /* 23px/1920 */
@@ -2698,8 +2698,8 @@ body {
   letter-spacing: 0.035417vw; /* 0.68px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 1.40625vw; /* 27px/1920 */
-  font-weight: 700;
+  font-size: 1.26625vw; /* 27px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 14.84375vw; /* 285px/1920 */
   height: 1.979167vw; /* 38px/1920 */
@@ -2859,8 +2859,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(35, 35, 35, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   white-space: pre;
   width: 5.46875vw; /* 105px/1920 */
@@ -2909,7 +2909,7 @@ body {
   letter-spacing: 0.004687vw; /* 0.09px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.885417vw; /* 17px/1920 */
+  font-size: 0.725417vw; /* 17px/1920 */
   font-weight: 500;
   font-style: normal;
   white-space: pre;
@@ -2936,8 +2936,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 2.135417vw; /* 41px/1920 */
   height: 1.197917vw; /* 23px/1920 */
@@ -2952,8 +2952,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 3.020833vw; /* 58px/1920 */
   height: 1.197917vw; /* 23px/1920 */
@@ -2969,8 +2969,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 3.385417vw; /* 65px/1920 */
   height: 1.197917vw; /* 23px/1920 */
@@ -2986,8 +2986,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 3.385417vw; /* 65px/1920 */
   height: 1.197917vw; /* 23px/1920 */
@@ -3003,8 +3003,8 @@ body {
   letter-spacing: 0.023438vw; /* 0.45px/1920 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 0.9375vw; /* 18px/1920 */
-  font-weight: 700;
+  font-size: 0.8475vw; /* 18px/1920 */
+  font-weight: 600;
   font-style: normal;
   width: 5.416667vw; /* 104px/1920 */
   height: 1.197917vw; /* 23px/1920 */
