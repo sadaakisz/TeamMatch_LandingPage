@@ -17,6 +17,29 @@ body {
   overflow: -moz-scrollbars-none;
 }
 
+/*scrollbar*/
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #222222;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 156, 99);
+  border-radius: 3px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(255, 120, 41);
+  border-radius: 3px;
+}
+
 .landingpageweb {
   will-change: transform;
   display: block;
